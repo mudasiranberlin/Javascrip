@@ -56,11 +56,13 @@ where start and end represent the index of items in that array.
 The original array will not be modified.
 */
 
-console.log("New 1",mynew1.slice(1,5));
+// console.log("New 1",mynew1.slice(1,5));
 
-/* The splice() method of Array instances changes the contents of an array by removing 
-or replacing existing elements and/or adding new elements in place */
+// /* The splice() method of Array instances changes the contents of an array by removing 
+// or replacing existing elements and/or adding new elements in place */
 
-console.log(mynew2.splice(0,5));
-console.log(mynew1);
-console.log(mynew2);
+// console.log(mynew2.splice(0,5));
+// console.log(mynew1);
+// console.log(mynew2);
+
+

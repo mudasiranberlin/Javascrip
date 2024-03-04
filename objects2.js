@@ -55,7 +55,7 @@ console.log(obj4);
 
 console.log(Object.keys(TinderUser));
 console.log(Object.values(TinderUser));
-console.log(Object.entries(TinderUser));
+console.log(Object.entries(TinderUser)); //show in array key and value key and value
 
 console.log(TinderUser.hasOwnProperty(1)); //is used to check the property is present there or not.
 
