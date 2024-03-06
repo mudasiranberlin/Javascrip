@@ -51,3 +51,7 @@ Javascript execution Context
 1. Global execution COntext
 
 2. Eval execution Context 
+
+*/
+
+console.log("welcome");
