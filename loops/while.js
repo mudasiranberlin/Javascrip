@@ -13,6 +13,7 @@ while (arr<array.length) {
     arr++;
 }
 
+
 let j=0;
 do {
     //console.log(j);

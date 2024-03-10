@@ -57,5 +57,4 @@ mycoding.forEach( (item)=>
 console.log(item.languagename); // here u also print languagename only
 console.log(item.lanaguagefilename); //here u print only language file name
 }
-
 )

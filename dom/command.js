@@ -122,3 +122,16 @@ const covertedarray=Array.from(array)
 covertedarray.forEach(function(li){  //now we change the color of li to blue
     li.style.color="blue"
     })
+
+
+    //
+    const name1=document.querySelectorAll('table')
+
+    name1.forEach(function (table) {
+        table.style.color='red';
+            table.style.padding='15px';
+            table.backgroundColor='green';
+            table.innerText='Mudasir'
+        })
+
+        
